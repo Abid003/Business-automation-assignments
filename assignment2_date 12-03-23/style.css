@@ -1,0 +1,40 @@
+.main-div{
+    width: 150px;
+    align-items: center;
+    margin: auto;
+}
+
+input{
+  width: 250px;
+} 
+
+/* .display{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+} */
+.output{
+    border: 1px solid black;
+    height: 30px;
+    width: 100px;
+}
+
+
+
+button{
+    width: 60px;
+    height: 60px;
+    background-color: azure;
+    color:brown;
+    border: 0.1px solid red;
+}
+.num-pad{
+    display: grid;
+grid-template-columns: auto auto auto auto auto auto;
+
+}
+
+
+
+
+
