@@ -1,0 +1,33 @@
+:root {
+    --title-bg: #acd0d0;
+    --bg: rgb(200, 240, 224);
+    --txtColer: rgb(105, 125, 125);
+  }
+
+  *{
+    color: var(--txtColer);
+  }
+body{
+    background-color: var(--bg);
+}
+
+button{
+    background-color: var(--title-bg);
+    border: none;
+}
+
+.title-div{
+    display: grid;
+    grid-template-columns: 90% 10%;
+}
+
+h1{
+    margin-left: 30px;
+
+}
+h2{
+
+    text-align: center;
+    background-color: var(--title-bg);
+}
+
