@@ -1,0 +1,22 @@
+#example-basic{
+    margin: auto;
+    width: 200px;
+    height: 400px;
+}
+
+input{
+    display: block;
+}
+
+section{
+    margin: auto;
+    width: 200px;
+    height: 400px;
+}
+ul{
+    list-style: none;
+    margin: 10px;
+}
+a{
+    float: left;
+}
